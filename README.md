@@ -64,9 +64,6 @@ Here are some of the cutting-edge systems I've architected and built:
 - Transitioned from managing and optimizing large-scale cloud data pipelines (GCP) to building custom Agentic AI solutions and Python automation scripts for enterprise workflows.
 - 🏆 **Hackathons:** Led teams to victory, winning multiple hackathons and securing finalist positions in major Agentic AI competitions organized by Accenture, AWS, and Snowflake.
 
-**CodeClause** | *Web Development Intern* | Aug 2023 - Sep 2023
-<br>
-**Persistent Systems** | *Intern* | Jun 2023 - Aug 2023
 
 ### 🎓 Education
 - **B.Tech in Computer Science Engineering** | *Narula Institute of Technology (NiT)* | 2020 - 2024
