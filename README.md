@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🚀+AI+%26+Data+Engineer;⚡+Building+Autonomous+ETL+Pipelines;🧠+Crafting+Intelligent+LLM+Agents;🔧+Accenture+Employee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+and+Data+Engineer;Building+Autonomous+ETL+Pipelines;Crafting+Intelligent+LLM+Agents;Accenture+Employee" alt="Typing SVG" />
 </h3>
 
 <div align="center">
